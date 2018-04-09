@@ -23,4 +23,7 @@ h1{
 	/*border: 8px ridge red;*/
 	border-top: 4px solid green;
 	border-bottom: 8px groove orange;
+	/*margin: 0px;
+	margin-top: 0px;*/
+	margin: 10px 30px 60px 100px; /*top right bottom left*/
 }
