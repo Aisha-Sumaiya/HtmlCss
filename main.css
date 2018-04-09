@@ -1,6 +1,7 @@
+/* Css from index2.html */
 p{
 	color: red;
-	font: bold italic 14px Tahoma;
+	font: bold italic 14px Tahoma; /* weight style size family*/
 	/*font-family: Arial;
 	font-weight: 500; //bold;
 	font-style: italic;
