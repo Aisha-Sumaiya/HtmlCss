@@ -1,5 +1,10 @@
 p{
 	color: red;
+	font: bold italic 14px Tahoma;
+	/*font-family: Arial;
+	font-weight: 500; //bold;
+	font-style: italic;
+	font-size: 24px; */
 }
 
 h1{
