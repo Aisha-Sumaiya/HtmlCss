@@ -53,4 +53,17 @@ body{
 	color: yellow;
 	background-color: black;
 }
-<!-- tutorial 22 ended here -->*/
+<!-- tutorial 22 ended here -->
+div p{
+	color: red;
+}
+p{
+	color: blue;
+}
+.red p{
+	color: red;
+}
+#green p{
+	color: green;
+}
+<!-- tutorial 23 ended here -->*/
