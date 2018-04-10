@@ -42,4 +42,15 @@ body{
 .yellow{
 	color: yellow;
 }
-<!-- tutorial 21 ended here -->*/
+<!-- tutorial 21 ended here -->
+#blue{
+	color: blue;
+}
+#red{
+	color: red;
+}
+#yellow{
+	color: yellow;
+	background-color: black;
+}
+<!-- tutorial 22 ended here -->*/
