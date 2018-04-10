@@ -1,4 +1,4 @@
-div{
+/*div{
 	border: 1px solid red;
 	background-color: yellow;
 	width: 250px;
@@ -8,3 +8,11 @@ span{
 	color: green;
 	text-decoration: underline;
 }
+<!-- tutorial 18 ended here -->
+div{
+	height: 250px;
+	width: 250px;
+	//background-color: #00baff;
+	background-color: rgb(12,255,0);
+}
+<!-- tutorial 19 ended here -->*/
