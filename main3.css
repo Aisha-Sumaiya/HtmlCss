@@ -15,4 +15,19 @@ div{
 	//background-color: #00baff;
 	background-color: rgb(12,255,0);
 }
-<!-- tutorial 19 ended here -->*/
+<!-- tutorial 19 ended here -->
+div{
+	height: 350px;
+	width: 100%;
+	background-image: url(Untitled.png);
+	background-repeat: no-repeat;
+	/*background-repeat: repeat-x;
+	background-repeat: repeat-y;
+	background-position: center;
+	background-color: orange;
+}
+
+body{
+	background-attachment: fixed;
+}
+<!-- tutorial 20 ended here -->*/
