@@ -52,4 +52,11 @@ a:visited{
 	color: pink;
 	text-decoration: none;
 }
-<!-- tutorial 27 ended here -->*/
+<!-- tutorial 27 ended here -->
+ul{
+	list-style-type: circle/square/decimal/disc/lower-greek/katakana;
+	list-style-image: url(tick.png);
+	line-height: 600%;
+	list-style-position: inside;
+}
+<!-- tutorial 28 ended here -->*/
