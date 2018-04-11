@@ -19,4 +19,21 @@ p:first-line{
 #parent p:after{
 	content: "I am after"
 }
-<!-- tutorial 25 ended here -->*/
+<!-- tutorial 25 ended here -->
+#parent p:nth-child(even){
+	background-color: grey;
+	color: red;
+}
+#parent p:nth-child(2n){
+	background-color: grey;
+	color: blue;
+}
+#parent p:nth-child(4n){
+	background-color: grey;
+	color: blue;
+}
+#parent p:nth-child(4){
+	background-color: grey;
+	color: red;
+}
+<!-- tutorial 26 ended here -->*/
