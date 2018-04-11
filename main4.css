@@ -79,4 +79,11 @@ ul{
 	border-radius: 30px;
 	background-image: linear-gradient(to top, #04507b 20%, #0072b4 40%, #018ad9 40%, #00a2ff 100%);
 }
-<!-- tutorial 30 ended here -->*/
+<!-- tutorial 30 ended here -->
+.pic{
+	float: right;
+}
+.para2{
+	clear: left/right/both;
+}
+<!-- tutorial 31 ended here -->*/
