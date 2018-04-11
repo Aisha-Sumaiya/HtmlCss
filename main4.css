@@ -59,14 +59,24 @@ ul{
 	line-height: 600%;
 	list-style-position: inside;
 }
-<!-- tutorial 28 ended here -->*/
+<!-- tutorial 28 ended here -->
 .rounded_box{
 	background-color: orange;
 	width: 200px;
 	text-align: center;
 	padding: 50px 0px;
-	/*border-radius: 50px;*/
+	border-radius: 50px;
 	border-top-left-radius: 50px;
 	-webkit-border-top-left-radius: 50px;
 	-moz-border-top-left-radius: 50px;
 }
+<!-- tutorial 29 ended here -->
+.rounded_box{
+	background-color: #0299ef;
+	width: 200px;
+	text-align: center;
+	padding: 50px 0px;
+	border-radius: 30px;
+	background-image: linear-gradient(to top, #04507b 20%, #0072b4 40%, #018ad9 40%, #00a2ff 100%);
+}
+<!-- tutorial 30 ended here -->*/
