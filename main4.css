@@ -36,4 +36,20 @@ p:first-line{
 	background-color: grey;
 	color: red;
 }
-<!-- tutorial 26 ended here -->*/
+<!-- tutorial 26 ended here -->
+a{
+	color: green;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	text-decoration: underline;
+}
+a:active{
+	color: orange;
+}
+a:visited{
+	color: pink;
+	text-decoration: none;
+}
+<!-- tutorial 27 ended here -->*/
