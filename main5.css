@@ -4,13 +4,29 @@
 	padding: 0px;
 	list-style-type: none;
 }
-header,nav,article,section,footer{
+header,nav,article,section,footer,aside{
 	display: block;
 }
 /*centering website*/
 .container{
 	width: 1000px;
 	margin: 0px auto;
-	border: 2px solid black
 }
 /* tutorial 37 ended here */
+.clear{
+	clear: both;
+}
+.logo{
+	height: 225px;
+	width: 225px;
+	float: left;
+}
+.top_nav{
+	float: left;
+	width: 775px;
+}
+.top_nav ul li{
+	float: left;
+	padding: 100px 20px;
+}
+/* tutorial 38 ended here */
