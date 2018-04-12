@@ -1,0 +1,16 @@
+/* Get rid of default padding and margin*/
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+header,nav,article,section,footer{
+	display: block;
+}
+/*centering website*/
+.container{
+	width: 1000px;
+	margin: 0px auto;
+	border: 2px solid black
+}
+/* tutorial 37 ended here */
