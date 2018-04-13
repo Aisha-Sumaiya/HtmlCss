@@ -57,7 +57,9 @@
 <!-- tutorial 41, 42 & 43 ended here -->
 		<form action="" method="get">
 			username:<input type="text" name="username" maxlength="10" size="10" />
+			<br/><br/>
 			password:<input type="password" name="password" maxlength="10" size="10" />
+			<br/><br/>
 			pick a food:
 			<select name="food" multiple size="3">
 				<optgroup label="salty food">
@@ -70,7 +72,16 @@
 					<option value="pizza">Pizza</option>
 				</optgroup>
 			</select>
+			<br/><br/>
+			What do you do in your spare time?<br/>
+			Play sport<input type="checkbox" name="spare_time[]" value="sport" checked="checked" />
+			Play computer games<input type="checkbox" name="spare_time[]" value="games"/>
+			Shopping<input type="checkbox" name="spare_time[]" value="shopping"/>
+			<br/><br/>
+			Do you play league of legends?<br/>
+			Yes<input type="radio" name="plays_lol" value="yes" checked="checked">
+			No<input type="radio" name="plays_lol" value="no">
 		</form>
-<!-- tutorial (44-46) ended here -->
+<!-- tutorial (44-47) ended here -->
 	</body>
 </html>
