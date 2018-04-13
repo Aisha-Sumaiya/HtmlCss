@@ -21,3 +21,19 @@ tfoot{
 	text-align: center;
 }
  /*tutorial 43 ended here */
+
+ fieldset{
+ 	width: 300px;
+ }
+
+ fieldset legend{
+ 	font-weight: bold;
+ }
+
+ .personal_info label{
+ 	float: left;
+ 	width: 100px;
+ 	text-align: right;
+ 	margin-right: 10px;
+ }
+ /*tutorial 51 ended here */
