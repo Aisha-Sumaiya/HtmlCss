@@ -58,7 +58,19 @@
 		<form action="" method="get">
 			username:<input type="text" name="username" maxlength="10" size="10" />
 			password:<input type="password" name="password" maxlength="10" size="10" />
+			pick a food:
+			<select name="food" multiple size="3">
+				<optgroup label="salty food">
+					<option value="potato_chips">Potato chips</option>
+					<option value="popcorn">Popcorn</option>
+					<option value="peanuts" selected="selected">Peanuts</option>
+				</optgroup>
+				<optgroup label="hot food">
+					<option value="nachos">Nachos</option>
+					<option value="pizza">Pizza</option>
+				</optgroup>
+			</select>
 		</form>
-<!-- tutorial (44-45) ended here -->
+<!-- tutorial (44-46) ended here -->
 	</body>
 </html>
